@@ -1,3 +1,3 @@
 # proyectoIntegrador CaC - Desarrollo web
 
-FullStack Java final project, Full stack web development./ Proyecto final FullStack Java, desarrollo web.
+ Front end web development./ Proyecto final Front-end del curso FullStack Java en Codo a Codo 4.0, desarrollo web.
